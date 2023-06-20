@@ -1,4 +1,4 @@
-# JS-Dropper
+# PindOS JS-Dropper
 JS dropper used recently for Bumblebee and IcedID infection
 
 More information can be found on Deep Instinct's Blog site:
